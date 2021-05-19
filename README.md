@@ -1,6 +1,7 @@
 # game-lobby-demo
 
-[See a live demo here!](https://game-lobby-demo.web.app/)  
+[See a live demo here!](https://game-lobby-demo.web.app/)   
+<a href="https://game-lobby-demo.web.app/" target="_blank">See a live demo here!</a>  
 
 I created this game lobby for another project, which is still in the works.  
 
